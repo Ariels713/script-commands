@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Create To-Do
+# @raycast.title To-Do
 # @raycast.mode silent
 
 # Optional parameters:
